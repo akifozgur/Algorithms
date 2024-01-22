@@ -1,5 +1,5 @@
 
-# Linear & Binary Search Algorithms (Doğrusal & İkili Arama Algoritmaları)
+# Linear & Binary Search Algorithms
 
 
 
