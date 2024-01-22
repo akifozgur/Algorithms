@@ -1,19 +1,17 @@
 
-# Merge Sort Algorithm (Birleştirmeli Sıralama Algoritması)
-
-
-
-
+# Merge Sort Algorithm
 
 ![Merge Sort](merge_sort.png)
 
-  Birleştirmeli Sıralama Algoritması, sıralanması gereken listeyi böldüğümüz, küçük parçalar halinde sıraladığımız, sonra tekrar bir araya getirdiğimiz klasik bir “Böl ve Fethet” (Divide and Conquer) algoritmasıdır.
+Merge Sort Algorithm is a classic ‘Divide and Conquer’ algorithm where the list to be sorted is divided into smaller parts, sorted individually, and then merged back together.
 
-Böl ve Fethet Konsepti üç kavramdan oluşur:
+The ‘Divide and Conquer’ concept consists of three key principles:
 
-Problemi birden fazla alt problemlere bölün.
-Alt problemleri kendi içerlerinde çözün.
-Asıl problemin çözümüne ulaşmak için çözülmüş alt problemleri birleştirin.
+1. Divide the problem into multiple subproblems.
+2. Solve the subproblems independently.
+3. Merge the solved subproblems to obtain the solution to the original problem.
+
+You can access my article on the topic through the Medium link: https://medium.com/@ozgurmehmetakif/merge-sort-algorithm-ff52822f5608
 
 Konu hakkındaki yazıma Medium linkinden ulaşabilirsiniz: https://medium.com/@ozgurmehmetakif/birle%C5%9Ftirmeli-s%C4%B1ralama-algoritmas%C4%B1-merge-sort-algorithm-c8a0feacc53
   
